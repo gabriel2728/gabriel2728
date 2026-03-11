@@ -1,16 +1,39 @@
-## Hi there 👋
+# Gabriel Costa Lima
 
-<!--
-**gabriel2728/gabriel2728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student of Multiplatform Software Development (DSM) at FATEC.
 
-Here are some ideas to get you started:
+I am currently studying web development, Python programming, databases, and version control using Git and GitHub. I am looking for my first internship opportunity in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies
+
+- Python
+- HTML
+- CSS
+- PHP
+
+## Tools
+
+- Git
+- GitHub
+- MySQL
+- Bizagi
+
+---
+
+## Academic Projects
+
+- **InterPoint BP** – Institutional website developed with HTML and CSS
+
+- **Library System** – Database modeling and SQL
+
+- **Hydroelectric Simulation** – BPM and Bizagi project
+
+---
+
+## Contact
+
+- Email: gabrielc.limaa@gmail.com
+- LinkedIn: www.linkedin.com/in/gabriel-costalima
+- Instagram: gabrielc.limaa
